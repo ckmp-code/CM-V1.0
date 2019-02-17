@@ -300,7 +300,7 @@ C-Media Group adalah sebuah perusahaan daring, perusahaan ini merupakan perusaha
 #tentang  [tentang GCBOT bot]
 #jam      [jam sekarang]
 #cmedia   [tentang C-Media Group]
-
+ test temp done
   >>>>>> Nama Asending <<<<<<< 
 Ketik nama yang ada di daftar db GC, contoh ketika kamu mengetik "Alan" maka akan keluar kesan aku ke alan.
 
