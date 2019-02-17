@@ -118,6 +118,7 @@ if($message['type']=='text')
 //sepur
 if($message['type']=='text')
 {
+require_once('./src/x0.php');
 require_once('./src/x1.php');
 require_once('./src/x2.php');
 require_once('./src/x3.php');
